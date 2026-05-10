@@ -1,3 +1,5 @@
+About: A simple sprite maker made using the pygame engine. Creates low res sprites to use for your games
+
 To run/use:
 
 Run the main.py file.
